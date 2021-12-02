@@ -1,0 +1,17 @@
+{
+    "required": true,
+    "minVersion": "0.8",
+    "package": "net.Genshin.Impact.Mod.mixin",
+    "compatibilityLevel": "JAVA_16",
+    "mixins": [
+      "GenshinMixin",
+      "PlayerEntityMixin",
+      "StructurePoolsMixin",
+      "StructurePoolAccess"
+    ],
+    "client": [
+    ],
+    "injectors": {
+      "defaultRequire": 1
+    }
+  }

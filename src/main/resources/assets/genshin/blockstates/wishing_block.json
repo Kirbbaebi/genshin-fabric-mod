@@ -1,0 +1,7 @@
+{
+    "variants": {
+        "": {
+            "model": "genshin:block/wishing_block"
+        }
+    }
+}

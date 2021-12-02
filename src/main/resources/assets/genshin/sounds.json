@@ -1,0 +1,9 @@
+{
+    "hilichurl_ya": {
+        "category": "entity",
+        "subtitle": "subtitles.genshin.hilichurl_ya",
+        "sounds": [
+            "genshin:hilichurl_ya"
+        ]
+    }
+}
